@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Таск06
+namespace Task06
 {
     class Program
     {
@@ -20,7 +20,6 @@ namespace Таск06
             Console.WriteLine("Wtite second string: ");
             secondString = Convert.ToString(Console.ReadLine());
             Console.WriteLine(firstString + "|" + secondString);
-
         }
     }
 }
