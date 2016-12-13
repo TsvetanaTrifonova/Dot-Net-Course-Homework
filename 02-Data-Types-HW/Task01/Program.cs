@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task1
+namespace Task01
 {
     class Program
     {
         static void Main(string[] args)
         {
-
             //int a = 52130;
             //sbyte b = -115;
             //int c = 4825932;
@@ -24,7 +23,6 @@ namespace Task1
             //int l = -1000000;
             //short m = 1990;
             //long n = 123456789123456789;
-          
 
         }
     }
